@@ -44,4 +44,4 @@ Contributions to this project are welcome. Please follow these guidelines when c
 For an extended evaluation and comparison, you can also find this project on Kaggle. Visit the competition page [here](https://www.kaggle.com/competitions/digit-recognizer) to participate and explore the performance of different models.
 
 ## Acknowledgments
-We would like to thank the creators of TensorFlow and Scikit-learn for providing the necessary tools and libraries for this project.
+I would like to thank the creators of TensorFlow and Scikit-learn for providing the necessary tools and libraries for this project.
